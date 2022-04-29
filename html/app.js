@@ -5,14 +5,14 @@ const { ref } = Vue
 const load = Vue.createApp({
   setup () {
     return {
-      CarouselText1: 'You can add/remove items, vehicles, jobs & gangs through the shared folder.',
-      CarouselSubText1: 'Photo captured by: Markyoo#8068',
-      CarouselText2: 'Adding additional player data can be achieved by modifying the qb-core player.lua file.',
-      CarouselSubText2: 'Photo captured by: ihyajb#9723',
-      CarouselText3: 'All server-specific adjustments can be made in the config.lua files throughout the build.',
-      CarouselSubText3: 'Photo captured by: FLAPZ[INACTIV]#9925',
-      CarouselText4: 'For additional support please join our community at discord.gg/qbcore',
-      CarouselSubText4: 'Photo captured by: Robinerino#1312',
+      CarouselText1: 'Welcome to Criminals Paradise RP',
+      CarouselSubText1: 'We are happy you are here!',
+      CarouselText2: 'We have lots of jobs, custom vehicles, locations, and more.',
+      CarouselSubText2: 'Endless opportunities!',
+      CarouselText3: 'If you have any questions along the way, please open a ticket.',
+      CarouselSubText3: 'Our admins are here to help!',
+      CarouselText4: 'Please be respectful to everyone and have fun.',
+      CarouselSubText4: 'We will see you in the city!',
 
       DownloadTitle: 'Downloading QBCore Server',
       DownloadDesc: "Hold tight while we begin downloading all the resources/assets required to play on QBCore Server. \n\nAfter download has been finished successfully, you'll be placed into the server and this screen will disappear. Please don't leave or turn off your PC. ",
